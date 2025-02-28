@@ -10,8 +10,8 @@ first_name: Ethan
 last_name: Pawl
 
 # Status emoji
-status:
-  icon: 
+# status:
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -127,13 +127,13 @@ skills:
         percent: ''
         icon: circle-stack
 
-languages:
+# languages:
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+# awards:
 ---
 
 ## About Me
