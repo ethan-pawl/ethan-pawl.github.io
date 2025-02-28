@@ -3,7 +3,7 @@
 title: Ethan Pawl
 
 # Name pronunciation (optional)
-name_pronunciation: 
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ethan
@@ -50,9 +50,9 @@ interests:
 education:
   - area: Ph.D. in Statistical Science, expected 2028
     institution: University of California, Santa Cruz
-     date_start: 2023-09-01
-     date_end: 2028-06-31
-     summary: |
+    date_start: 2023-09-01
+    date_end: 2028-06-30
+    summary: |
       GPA 4.0/4.0
 #       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #     button:
