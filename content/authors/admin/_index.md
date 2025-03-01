@@ -39,8 +39,8 @@ profiles:
     url: https://www.linkedin.com/in/ethan-pawl-78ba04192/
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
-#  - icon: academicons/orcid
-#    url: https://orcid.org/
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0004-5847-1670
 
 interests:
   - Statistical Modeling
