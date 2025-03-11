@@ -4,11 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 favicon:
-  src: "favicon.png"
-  sizes: ["16x16"]
-  # appleTouchIcon: "apple-touch-icon.png"
-  # androidChrome192: "android-chrome-192x192.png"
-  # androidChrome512: "android-chrome-512x512.png"
+  src: "favicon.ico"
+  sizes: ["16x16", "32x32"]
+  appleTouchIcon: "apple-touch-icon.png"
+  androidChrome192: "android-chrome-192x192.png"
+  androidChrome512: "android-chrome-512x512.png"
+
 
 # Appearance
 appearance:
