@@ -5,7 +5,9 @@
 
 favicon:
   src: "favicon.ico"
-  sizes: ["16x16", "32x32"]
+  sizes: 
+    - "favicon-16x16.png"
+    - "favicon-32x32.png"
   appleTouchIcon: "apple-touch-icon.png"
   androidChrome192: "android-chrome-192x192.png"
   androidChrome512: "android-chrome-512x512.png"
