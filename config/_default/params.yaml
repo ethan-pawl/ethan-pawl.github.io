@@ -3,16 +3,6 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-favicon:
-  src: "favicon.ico"
-  sizes: 
-    - "favicon-16x16.png"
-    - "favicon-32x32.png"
-  appleTouchIcon: "apple-touch-icon.png"
-  androidChrome192: "android-chrome-192x192.png"
-  androidChrome512: "android-chrome-512x512.png"
-
-
 # Appearance
 appearance:
   mode: system
