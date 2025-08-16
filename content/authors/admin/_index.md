@@ -138,4 +138,4 @@ skills:
 
 ## About Me
 
-I am currently a second-year PhD student at the University of California, Santa Cruz. I am broadly interested in applications of statistics to ecology and currently working to model the behavior of photosynthetic marine microbes and their responses to changes in environmental conditions.
+I am a PhD student in the Department of Statistics at the University of California, Santa Cruz. My research centers on advancing statistical methods that help domain experts extract scientifically meaningful and actionable insights from challenging new datasets. For example, I have developed a novel mixture of experts to model phytoplankton responses to changing environmental conditions and applied gradient-boosted trees to automate assembly line malfunction reporting at Ericsson.
