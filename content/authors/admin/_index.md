@@ -37,8 +37,8 @@ profiles:
     url: https://github.com/ethan-pawl
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ethan-pawl-78ba04192/
-#  - icon: academicons/google-scholar
-#    url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=F5KpvxkAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-5847-1670
 
