@@ -138,4 +138,4 @@ skills:
 
 ## About Me
 
-I am a PhD student in the Department of Statistics at the University of California, Santa Cruz. I advance statistical methods that help domain experts extract scientifically meaningful and actionable insights from challenging new datasets. For example, I have developed a novel mixture of experts to model phytoplankton responses to changing environmental conditions and applied gradient-boosted trees to automate assembly line malfunction reporting at Ericsson.
+I am a PhD student in the Department of Statistics at the University of California, Santa Cruz. I advance statistical methods that help domain experts extract scientifically meaningful and actionable insights from challenging new datasets. For example, I have developed novel mixtures of experts to model phytoplankton responses to changing environmental conditions, used gradient-boosted trees to automate assembly line malfunction reporting at Ericsson, and built Gaussian process surrogate models for computational fluid dynamics software at Lawrence Livermore National Laboratory.
