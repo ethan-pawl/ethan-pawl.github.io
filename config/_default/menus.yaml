@@ -4,6 +4,6 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Math Background Textbook
+  - name: Math Background for Statistics Guide
     url: https://github.com/ethan-pawl/stat-math-bg
     weight: 10
